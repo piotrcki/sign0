@@ -1,0 +1,12 @@
+# Linux binaries
+gensigkeys0/gensigkeys0
+sign0/sign0
+verify0/verify0
+
+# Windows binaries
+gensigkeys0/gensigkeys0
+sign0/sign0
+verify0/verify0
+
+# Emacs
+*~
