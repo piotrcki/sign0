@@ -103,7 +103,7 @@ Internals
 There is only a little diffrence between a basic Lamport public key and a `.pub.lkey` file: the `.pub.lkey` actualy contains the SHA-512 fingerprint of public key.
 This is for making the public key smaller (the size is divided by 1024).
 
-The `.lsig` file is the concatenation of the full Lamport public key (chacked against its fingerprint) and the Lamport signature.
+The `.lsig` file is the concatenation of the full Lamport public key (checked against its fingerprint) and the Lamport signature.
 
 Building sign0
 ===============
